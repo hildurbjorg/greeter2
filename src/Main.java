@@ -1,3 +1,8 @@
+package src;
+
+import src.Greeter;
+import src.UserInterface;
+
 public class Main {
 
     public static void main(String[] args) {
