@@ -1,4 +1,3 @@
-package is.hi.abc12.hbv202g.ass3.frontend;
 public class Greeter {
 
     private Language language = Language.ENGLISH;
